@@ -1,8 +1,8 @@
 ---
-title: Main page test
+title: Home
 description: 
 published: true
-date: 2025-08-02T22:34:08.214Z
+date: 2025-08-02T22:36:25.263Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-02T18:11:38.206Z

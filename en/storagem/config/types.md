@@ -2,7 +2,7 @@
 title: Storage types
 description: 
 published: true
-date: 2025-08-04T11:30:33.688Z
+date: 2025-08-04T11:31:15.278Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-02T23:24:41.733Z
@@ -10,6 +10,6 @@ dateCreated: 2025-08-02T23:24:41.733Z
 
 # Storage types - configurations
 
-- [📦 *Block storage - configuration*](/storagemechanics/config/types/block-storage)
-- [🪑 *Furniture storage - configuration*](/storagemechanics/config/types/furniture-storage)
-- [🛠️ *Item storage - configuration*](/storagemechanics/config/types/item-storage)
+- [📦 *Block storage - configuration*](/storagem/config/types/block-storage)
+- [🪑 *Furniture storage - configuration*](/storagem/config/types/furniture-storage)
+- [🛠️ *Item storage - configuration*](/storagem/config/types/item-storage)

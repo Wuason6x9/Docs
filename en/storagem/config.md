@@ -2,13 +2,13 @@
 title: Configuration
 description: Configuration links and documentation for StorageMechanic.
 published: true
-date: 2025-08-04T20:16:44.101Z
+date: 2025-08-04T20:19:36.571Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-02T23:24:05.851Z
 ---
 
-- [📦 *Storage - configuration*](/storagem/config/storage-config)
+- [![treasure-chest.svg](/treasure-chest.svg) *Storage - configuration*](/storagem/config/storage-config)
 - [🛠️ *Item interface - configuration*](/storagem/config/item-interfaces)
 - [🧱 *Custom items - configuration*](/storagem/config/custom-items)
 - [🧰 *Inventories - configuration*](/storagem/config/inventories-config)

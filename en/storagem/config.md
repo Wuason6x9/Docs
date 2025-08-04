@@ -2,7 +2,7 @@
 title: Configuration
 description: Configuration links and documentation for StorageMechanic.
 published: true
-date: 2025-08-04T19:54:53.123Z
+date: 2025-08-04T19:55:31.613Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-02T23:24:05.851Z
@@ -14,4 +14,3 @@ dateCreated: 2025-08-02T23:24:05.851Z
 - [🧰 *Inventories - configuration*](/storagem/config/inventories-config)
 - [🔰 *Storages Types*](/storagem/config/types)
 - [📖 *Recipes (Add recipes Custom) - configuration*](/storagem/config/recipes)
-{.links-list}

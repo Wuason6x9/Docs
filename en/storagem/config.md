@@ -2,7 +2,7 @@
 title: Configuration
 description: Configuration links and documentation for StorageMechanic.
 published: true
-date: 2025-08-04T19:55:31.613Z
+date: 2025-08-04T19:57:38.914Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-02T23:24:05.851Z

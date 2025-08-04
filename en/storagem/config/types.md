@@ -2,10 +2,10 @@
 title: Storage types
 description: 
 published: true
-date: 2023-10-02T12:00:05.826Z
+date: 2025-08-04T11:30:33.688Z
 tags: 
-editor: undefined
-dateCreated: 2023-10-02T00:52:10.843Z
+editor: markdown
+dateCreated: 2025-08-02T23:24:41.733Z
 ---
 
 # Storage types - configurations
@@ -13,4 +13,3 @@ dateCreated: 2023-10-02T00:52:10.843Z
 - [📦 *Block storage - configuration*](/storagemechanics/config/types/block-storage)
 - [🪑 *Furniture storage - configuration*](/storagemechanics/config/types/furniture-storage)
 - [🛠️ *Item storage - configuration*](/storagemechanics/config/types/item-storage)
-{.links-list}

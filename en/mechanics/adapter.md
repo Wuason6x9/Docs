@@ -2,7 +2,7 @@
 title: Adapter usage
 description: Guide to compatibility prefixes and usage for the Adapter system.
 published: true
-date: 2025-08-05T00:25:42.290Z
+date: 2025-08-05T00:28:54.778Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-02T23:23:41.803Z
@@ -22,69 +22,69 @@ It is a system to obtain items in a simple and quick implementation way!
 
 <ul class="compatibility-list">
   <li>
-    <a href="#itemsadder" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
+    <a href="#itemsadder">
       <img src="https://files.techmc.es/studio/assents/others-plugins/itemsadder.jpg" class="compatibility-logo" alt="ItemsAdder">
       <em>ItemsAdder</em>
     </a>
   </li>
   <li>
-    <a href="#oraxen" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
-      <img src="https://files.techmc.es/studio/assents/others-plugins/oraxen.jpg" class="compatibility-logo" alt="Oraxen">
-      <em>Oraxen</em>
+    <a href="#craftengine">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/craftengine.png" class="compatibility-logo" alt="CraftEngine">
+      <em>CraftEngine</em>
     </a>
   </li>
   <li>
-    <a href="#storagemechanic" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
-      <img src="https://files.techmc.es/studio/plugins/storagemechanic/logo.png" class="compatibility-logo" alt="StorageMechanic">
-      <em>StorageMechanic</em>
-    </a>
-  </li>
-  <li>
-    <a href="#mythicmobs" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
-      <img src="https://files.techmc.es/studio/assents/others-plugins/mythicmobs.jpg" class="compatibility-logo inverted" alt="MythicMobs">
-      <em>MythicMobs</em>
-    </a>
-  </li>
-  <li>
-    <a href="#customitems" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
-      <img src="https://files.techmc.es/studio/assents/others-plugins/customitems.png" class="compatibility-logo" alt="CustomItems">
-      <em>CustomItems</em>
-    </a>
-  </li>
-  <li>
-    <a href="#executable-blocks" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
-      <img src="https://files.techmc.es/studio/assents/others-plugins/executableblocks.jpg" class="compatibility-logo" alt="ExecutableBlocks">
-      <em>ExecutableBlocks</em>
-    </a>
-  </li>
-  <li>
-    <a href="#executable-items" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
-      <img src="https://files.techmc.es/studio/assents/others-plugins/executableitems.jpg" class="compatibility-logo" alt="ExecutableItems">
-      <em>ExecutableItems</em>
-    </a>
-  </li>
-  <li>
-    <a href="#mmoitems" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
-      <img src="https://files.techmc.es/studio/assents/others-plugins/mmoitems.jpg" class="compatibility-logo" alt="MMOItems">
-      <em>MMOItems</em>
-    </a>
-  </li>
-  <li>
-    <a href="#mythiccrucible" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
-      <img src="https://files.techmc.es/studio/assents/others-plugins/crucible.jpg" class="compatibility-logo" alt="MythicCrucible">
-      <em>MythicCrucible</em>
-    </a>
-  </li>
-  <li>
-    <a href="#nexo" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
+    <a href="#nexo">
       <img src="https://files.techmc.es/studio/assents/others-plugins/nexo.png" class="compatibility-logo" alt="Nexo">
       <em>Nexo</em>
     </a>
   </li>
   <li>
-    <a href="#craftengine" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
-      <img src="https://files.techmc.es/studio/assents/others-plugins/craftengine.png" class="compatibility-logo" alt="CraftEngine">
-      <em>CraftEngine</em>
+    <a href="#mythicmobs">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/mythicmobs.jpg" class="compatibility-logo inverted" alt="MythicMobs">
+      <em>MythicMobs</em>
+    </a>
+  </li>
+  <li>
+    <a href="#mmoitems">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/mmoitems.jpg" class="compatibility-logo" alt="MMOItems">
+      <em>MMOItems</em>
+    </a>
+  </li>
+  <li>
+    <a href="#oraxen">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/oraxen.jpg" class="compatibility-logo" alt="Oraxen">
+      <em>Oraxen</em>
+    </a>
+  </li>
+  <li>
+    <a href="#executable-items">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/executableitems.jpg" class="compatibility-logo" alt="ExecutableItems">
+      <em>ExecutableItems</em>
+    </a>
+  </li>
+  <li>
+    <a href="#executable-blocks">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/executableblocks.jpg" class="compatibility-logo" alt="ExecutableBlocks">
+      <em>ExecutableBlocks</em>
+    </a>
+  </li>
+  <li>
+    <a href="#customitems">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/customitems.png" class="compatibility-logo" alt="CustomItems">
+      <em>CustomItems</em>
+    </a>
+  </li>
+  <li>
+    <a href="#mythiccrucible">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/crucible.jpg" class="compatibility-logo" alt="MythicCrucible">
+      <em>MythicCrucible</em>
+    </a>
+  </li>
+  <li>
+    <a href="#storagemechanic">
+      <img src="https://files.techmc.es/studio/plugins/storagemechanic/logo.png" class="compatibility-logo" alt="StorageMechanic">
+      <em>StorageMechanic</em>
     </a>
   </li>
 </ul>

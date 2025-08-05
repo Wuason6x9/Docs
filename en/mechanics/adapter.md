@@ -2,10 +2,10 @@
 title: Adapter usage
 description: Guide to compatibility prefixes and usage for the Adapter system.
 published: true
-date: 2025-01-12T15:22:43.087Z
+date: 2025-08-05T00:01:51.813Z
 tags: 
 editor: markdown
-dateCreated: 2023-10-01T09:17:54.038Z
+dateCreated: 2025-08-02T23:23:41.803Z
 ---
 
 # Compatibility / Prefixes
@@ -18,17 +18,70 @@ It is a system to obtain items in a simple and quick implementation way!
 ### Syntax
 `COMPATIBILITY_ID:ITEMID`
 
-## Compatibilities
-- [ItemsAdder](#itemsadder)
-- [Oraxen](#oraxen)
-- [StorageMechanic](#storagemechanic)
-- [MythicMobs](#mythicmobs)
-- [CustomItems](#customitems)
-- [ExecutableBlocks](#executable-blocks)
-- [ExecutableItems](#executable-items)
-- [MMOItems](#mmoitems)
-- [MythicCrucible](#mythiccrucible)
-- [Nexo](#nexo)
+<h2>Compatibilities</h2>
+
+<ul class="compatibility-list">
+  <li>
+    <a href="#itemsadder" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
+      <i class="mdi mdi-cube-outline compatibility-icon"></i>
+      <em>ItemsAdder</em>
+    </a>
+  </li>
+  <li>
+    <a href="#oraxen" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
+      <i class="mdi mdi-pickaxe compatibility-icon"></i>
+      <em>Oraxen</em>
+    </a>
+  </li>
+  <li>
+    <a href="#storagemechanic" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
+      <i class="mdi mdi-archive compatibility-icon"></i>
+      <em>StorageMechanic</em>
+    </a>
+  </li>
+  <li>
+    <a href="#mythicmobs" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
+      <i class="mdi mdi-spider compatibility-icon"></i>
+      <em>MythicMobs</em>
+    </a>
+  </li>
+  <li>
+    <a href="#customitems" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
+      <i class="mdi mdi-diamond compatibility-icon"></i>
+      <em>CustomItems</em>
+    </a>
+  </li>
+  <li>
+    <a href="#executable-blocks" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
+      <i class="mdi mdi-block-helper compatibility-icon"></i>
+      <em>ExecutableBlocks</em>
+    </a>
+  </li>
+  <li>
+    <a href="#executable-items" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
+      <i class="mdi mdi-sword compatibility-icon"></i>
+      <em>ExecutableItems</em>
+    </a>
+  </li>
+  <li>
+    <a href="#mmoitems" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
+      <i class="mdi mdi-sword compatibility-icon"></i>
+      <em>MMOItems</em>
+    </a>
+  </li>
+  <li>
+    <a href="#mythiccrucible" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
+      <i class="mdi mdi-anvil compatibility-icon"></i>
+      <em>MythicCrucible</em>
+    </a>
+  </li>
+  <li>
+    <a href="#nexo" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
+      <i class="mdi mdi-link-variant compatibility-icon"></i>
+      <em>Nexo</em>
+    </a>
+  </li>
+</ul>
 
 ## ItemsAdder
 `ia:namespace:item_id`

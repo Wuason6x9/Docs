@@ -2,7 +2,7 @@
 title: Adapter usage
 description: Guide to compatibility prefixes and usage for the Adapter system.
 published: true
-date: 2025-08-05T00:01:51.813Z
+date: 2025-08-05T00:25:42.290Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-02T23:23:41.803Z
@@ -22,63 +22,69 @@ It is a system to obtain items in a simple and quick implementation way!
 
 <ul class="compatibility-list">
   <li>
-    <a href="#itemsadder" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
-      <i class="mdi mdi-cube-outline compatibility-icon"></i>
+    <a href="#itemsadder" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/itemsadder.jpg" class="compatibility-logo" alt="ItemsAdder">
       <em>ItemsAdder</em>
     </a>
   </li>
   <li>
-    <a href="#oraxen" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
-      <i class="mdi mdi-pickaxe compatibility-icon"></i>
+    <a href="#oraxen" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/oraxen.jpg" class="compatibility-logo" alt="Oraxen">
       <em>Oraxen</em>
     </a>
   </li>
   <li>
-    <a href="#storagemechanic" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
-      <i class="mdi mdi-archive compatibility-icon"></i>
+    <a href="#storagemechanic" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
+      <img src="https://files.techmc.es/studio/plugins/storagemechanic/logo.png" class="compatibility-logo" alt="StorageMechanic">
       <em>StorageMechanic</em>
     </a>
   </li>
   <li>
-    <a href="#mythicmobs" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
-      <i class="mdi mdi-spider compatibility-icon"></i>
+    <a href="#mythicmobs" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/mythicmobs.jpg" class="compatibility-logo inverted" alt="MythicMobs">
       <em>MythicMobs</em>
     </a>
   </li>
   <li>
-    <a href="#customitems" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
-      <i class="mdi mdi-diamond compatibility-icon"></i>
+    <a href="#customitems" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/customitems.png" class="compatibility-logo" alt="CustomItems">
       <em>CustomItems</em>
     </a>
   </li>
   <li>
-    <a href="#executable-blocks" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
-      <i class="mdi mdi-block-helper compatibility-icon"></i>
+    <a href="#executable-blocks" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/executableblocks.jpg" class="compatibility-logo" alt="ExecutableBlocks">
       <em>ExecutableBlocks</em>
     </a>
   </li>
   <li>
-    <a href="#executable-items" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
-      <i class="mdi mdi-sword compatibility-icon"></i>
+    <a href="#executable-items" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/executableitems.jpg" class="compatibility-logo" alt="ExecutableItems">
       <em>ExecutableItems</em>
     </a>
   </li>
   <li>
-    <a href="#mmoitems" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
-      <i class="mdi mdi-sword compatibility-icon"></i>
+    <a href="#mmoitems" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/mmoitems.jpg" class="compatibility-logo" alt="MMOItems">
       <em>MMOItems</em>
     </a>
   </li>
   <li>
-    <a href="#mythiccrucible" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
-      <i class="mdi mdi-anvil compatibility-icon"></i>
+    <a href="#mythiccrucible" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/crucible.jpg" class="compatibility-logo" alt="MythicCrucible">
       <em>MythicCrucible</em>
     </a>
   </li>
   <li>
-    <a href="#nexo" title="Current Date: 2025-08-05 00:00:07 | User: Wuason6x9">
-      <i class="mdi mdi-link-variant compatibility-icon"></i>
+    <a href="#nexo" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/nexo.png" class="compatibility-logo" alt="Nexo">
       <em>Nexo</em>
+    </a>
+  </li>
+  <li>
+    <a href="#craftengine" title="Current Date: 2025-08-05 00:24:38 | User: Wuason6x9">
+      <img src="https://files.techmc.es/studio/assents/others-plugins/craftengine.png" class="compatibility-logo" alt="CraftEngine">
+      <em>CraftEngine</em>
     </a>
   </li>
 </ul>

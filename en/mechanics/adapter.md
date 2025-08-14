@@ -2,7 +2,7 @@
 title: Adapter usage
 description: Guide to compatibility prefixes and usage for the Adapter system.
 published: true
-date: 2025-08-05T00:28:54.778Z
+date: 2025-08-14T00:01:51.122Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-02T23:23:41.803Z
@@ -143,6 +143,11 @@ Plugin: [ExecutableBlocks](https://www.spigotmc.org/resources/custom-blocks-plug
 ## Executable Items
 `ei:item_id`
 Plugin: [ExecutableItems](https://www.spigotmc.org/resources/custom-items-plugin-executable-items.77578/)
+
+## CraftEngine
+`ce:namespace:item_id`
+Plugin: [CraftEngine](https://github.com/Xiao-MoMi/craft-engine)
+
 
 ## How to add new compatibility?
 Go to our discord and create a suggestion!

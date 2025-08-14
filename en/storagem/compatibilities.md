@@ -2,10 +2,10 @@
 title: Compatibilities
 description: List of supported plugins, integrations, and usage examples for StorageMechanic.
 published: true
-date: 2023-10-05T23:23:41.128Z
+date: 2025-08-14T00:00:03.260Z
 tags: 
 editor: markdown
-dateCreated: 2023-10-01T19:46:09.324Z
+dateCreated: 2025-08-02T23:24:00.387Z
 ---
 
 # **Compatibilities**
@@ -22,6 +22,7 @@ dateCreated: 2023-10-01T19:46:09.324Z
 - ExecutableItems
 - ExecutableBlocks
 - MythicCrucible
+- CraftEngine
 
 Adapter use: [usage](/mechanics/adapter)
 
@@ -31,12 +32,32 @@ Adapter use: [usage](/mechanics/adapter)
 - MythicCrucible
 
 ### Protections
-- Towny
-- WorldGuard
-- FactionsUUID
-- Lands
-- PlotSquared
-- CrashClaim
+  - BentoBox
+  - CrashClaim
+  - Dominion
+  - FabledSkyBlock
+  - FactionsUUID
+  - GriefDefender
+  - GriefPrevention
+  - hClaims
+  - HuskClaims
+  - HuskTowns
+  - IridiumSkyBlock
+  - KingdomsX
+  - Landlord
+  - Lands
+  - PlotSquared
+  - PreciousStones
+  - ProtectionStones
+  - RedProtect
+  - Residence
+  - SaberFactions
+  - SuperiorSkyBlock
+  - Towny
+  - UltimateClaims
+  - UltimateClans
+  - WorldGuard
+  - XClaim
 
 ### Others
 - PlaceHolderAPI

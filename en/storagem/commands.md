@@ -2,7 +2,7 @@
 title: Commands usage
 description: List of StorageMechanic plugin commands and their permissions or usage.
 published: true
-date: 2025-08-26T18:30:57.049Z
+date: 2025-08-26T18:34:48.557Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-02T23:23:55.329Z
